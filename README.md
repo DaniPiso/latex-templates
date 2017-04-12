@@ -1,2 +1,2 @@
 # latex-templates
-This project contains my lates templates
+This project contains my latex templates
